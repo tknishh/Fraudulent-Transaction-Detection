@@ -42,6 +42,6 @@ I was successfully able to find the most accurate model to detect fraudlent tran
 
 # Tanish Khandelwal
 
-Connect with me on Linkedin: https://www.linkedin.com/in/tanish-khandelwal-da/
+Connect with me on Linkedin: https://www.linkedin.com/in/tknishh/
 
 Check out my Github profile: https://github.com/tknishh
